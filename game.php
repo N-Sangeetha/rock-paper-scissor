@@ -32,7 +32,7 @@ $result = check($computer, $human);
 h1{color:#ff0066;}
 select{width:180px;height:30px;font-size:16px; position:absolute;text-align:center;}
 input{width:100px; height:30px;}
-body{background:#ff66ff;}
+body{background:#9966ff;}
 </style>
 
 <body>
